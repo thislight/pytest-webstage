@@ -49,6 +49,7 @@ webstage check-cache
 ```
 
 You can see some examples at `tests/`.
+See the [user manual](./docs/manual.md) for detailed introduction.
 
 ## License
 
