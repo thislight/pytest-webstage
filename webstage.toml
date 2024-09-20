@@ -1,0 +1,11 @@
+[tool.webstage]
+cached_browsers = "always"
+
+[[tool.webstage.browsers]]
+browser = "firefox"
+version = "stable"
+
+[[tool.webstage.browsers]]
+browser = "chrome"
+version = "stable"
+
